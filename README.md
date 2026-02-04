@@ -41,6 +41,7 @@ Classes:
 * severe class imbalance (≈ 7.6 : 1)
 * noisy HTML and URLs
 * high lexical overlap between categories (especially 0-5)
+* very high dimensional feature space (~50k+ features after TF-IDF)
 
 ---
 
@@ -56,7 +57,7 @@ Classes:
 
 ### 2. Feature engineering
 
-* TF-IDF (unigrams)
+* TF-IDF (unigrams and bigrams)
 * document length statistics
 * digit density
 * source encoding (publisher bias)
