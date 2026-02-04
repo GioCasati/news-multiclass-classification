@@ -93,11 +93,11 @@ The ensemble's performance was evaluated on the prediction of the evaluation dat
 
 ## Repository structure
 
-- [`src/`](src) — Python pipeline and training code  
+- [`src/`](src) — Python pipeline
 - [`notebooks/`](notebooks) — experiments and exploratory analysis  
-- [`reports/`](reports) — project report and documentation  
+- [`reports/`](reports) — project report
 - [`results/`](results) — plots and evaluation outputs  
-- [`data/`](data) — dataset placeholder (not included)
+- [`data/`](data) — dataset
 
 ---
 
